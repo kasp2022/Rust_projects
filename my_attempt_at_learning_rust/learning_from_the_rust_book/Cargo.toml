@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "Learning_from_the_Rust_book"
+name = "learning_from_the_rust_book"
 path = "main.rs"
