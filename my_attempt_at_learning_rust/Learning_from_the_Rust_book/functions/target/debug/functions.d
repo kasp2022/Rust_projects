@@ -1,0 +1,1 @@
+/home/kasper/Documents/Rust_projects/My_Attempt_at_Learning_Rust/Learning_from_the_Rust_book/functions/target/debug/functions: /home/kasper/Documents/Rust_projects/My_Attempt_at_Learning_Rust/Learning_from_the_Rust_book/functions/src/main.rs

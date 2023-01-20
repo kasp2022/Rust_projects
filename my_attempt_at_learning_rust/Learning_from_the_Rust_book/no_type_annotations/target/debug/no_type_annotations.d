@@ -1,0 +1,1 @@
+/home/kasper/Documents/Rust_projects/My_Attempt_at_Learning_Rust/Learning_from_the_Rust_book/no_type_annotations/target/debug/no_type_annotations: /home/kasper/Documents/Rust_projects/My_Attempt_at_Learning_Rust/Learning_from_the_Rust_book/no_type_annotations/src/main.rs

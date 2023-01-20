@@ -1,0 +1,12 @@
+[package]
+name = "Learning_from_the_Rust_book"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "Learning_from_the_Rust_book"
+path = "main.rs"
