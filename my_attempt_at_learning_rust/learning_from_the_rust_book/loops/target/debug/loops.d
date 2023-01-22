@@ -1,0 +1,1 @@
+/home/kasper/Documents/rust_projects/my_attempt_at_learning_rust/learning_from_the_rust_book/loops/target/debug/loops: /home/kasper/Documents/rust_projects/my_attempt_at_learning_rust/learning_from_the_rust_book/loops/src/main.rs
